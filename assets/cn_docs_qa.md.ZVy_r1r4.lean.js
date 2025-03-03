@@ -1,1 +1,0 @@
-import{_ as t,c as r,o,a2 as s}from"./chunks/framework.BJ0zSiM-.js";const h=JSON.parse('{"title":"常见问题的解答","description":"","frontmatter":{},"headers":[],"relativePath":"cn/docs/qa.md","filePath":"cn/docs/qa.md"}'),n={name:"cn/docs/qa.md"},a=s("",2),e=[a];function g(i,l,c,_,d,p){return o(),r("div",null,e)}const m=t(n,[["render",g]]);export{h as __pageData,m as default};
